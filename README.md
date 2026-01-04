@@ -6,9 +6,12 @@
 ## 📌 Preview
 
 <p align="center">
+  <h3 align="center"><b>User Interface</b></h3>
   <img src="images/chat_prv1.png" alt="SignSense Smart Glove" width="1000"/>
 </p>
+<hr>
 <p align="center">
+  <h3 align="center"><b>Agentic Tool Calling</b></h3>
   <img src="images/chat_prv4.png" alt="SignSense Smart Glove" width="1000"/>
 </p>
 
