@@ -1,7 +1,6 @@
 # 🧠🤖 MarfiiAI – Agentic AI Assistant
 
-**MarfiiAI** is an **Agentic AI-powered chatbot** built using **LangGraph** that intelligently routes user queries across multiple tools such as **Web Search, Weather, and RAG (Retrieval-Augmented Generation)**.  
-It features a **Streamlit-based interactive UI**, **real-time streaming responses**, and **persistent memory** for conversational continuity.
+**MarfiiAI** is an **Agentic AI–powered chatbot** built using **LangGraph** that intelligently **routes user queries across multiple tools**, including Web Search, Weather, and RAG (Retrieval-Augmented Generation). It features a **Streamlit-based interactive user interface, real-time streaming responses, and persistent conversational memory** to enable coherent, context-aware interactions across multiple turns.
 
 ---
 
