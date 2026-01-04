@@ -3,7 +3,16 @@
 **MarfiiAI** is an **Agentic AI–powered chatbot** built using **LangGraph** that intelligently **routes user queries across multiple tools**, including Web Search, Weather, and RAG (Retrieval-Augmented Generation). It features a **Streamlit-based interactive user interface, real-time streaming responses, and persistent conversational memory** to enable coherent, context-aware interactions across multiple turns.
 
 ---
+## 📌 Preview
 
+<p align="center">
+  <img src="images/chat_prv1.png" alt="SignSense Smart Glove" width="1000"/>
+</p>
+<p align="center">
+  <img src="images/chat_prv4.png" alt="SignSense Smart Glove" width="1000"/>
+</p>
+
+---
 ## 🚀 Key Features
 
 - 🧠 **Agentic Architecture (LangGraph)**
